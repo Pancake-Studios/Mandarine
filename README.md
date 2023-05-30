@@ -5,4 +5,4 @@
 
 # Projet Mandarine 🍊 - [Pancake Studios](https://www.youtube.com/@pancakestudios4753)
 
-Frites au four
+C'est pas bon les frites au four en fait
